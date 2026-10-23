@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14366669987",
+    "project_id": "symptocare-ca67a",
+    "storage_bucket": "symptocare-ca67a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14366669987:android:35d0e3f7ea7bc11aab5316",
+        "android_client_info": {
+          "package_name": "com.example.symptocare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpr1-08GcxSK0RNy1eK4JgLRZHDXn4baI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

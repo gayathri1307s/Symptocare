@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+joblib
+pandas
+scikit-learn
+google-genai
+python-dotenv
+transformers
+torch
